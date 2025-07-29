@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Как связаться
-Пиши в Telegram: @NathalieNR
+Напиши в Telegram: @NathalieNR
 Или напиши на почту: nrnatusia7@gmail.com
 
 
