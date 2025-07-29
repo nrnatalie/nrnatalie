@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет! Я Наталья 👋
 
-<!--
-**nrnatalie/nrnatalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior верстальщик  
+💡 Изучаю HTML и CSS, создаю простые сайты  
+🔍 Ищу стажировку или первый коммерческий проект  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Мои навыки
+- HTML5, CSS3
+- Адаптивная вёрстка
+- Git, GitHub
+- Работаю с VS Code
+
+---
+
+## 🌱 В процессе изучения
+- JavaScript (основы)
+- Figma для вёрстки по макетам
+
+---
+
+## 📌 Примеры работ
+- 🐧 [Проект Penguin](https://github.com/nrnatalie/Penguin)
+
+---
+
+## 📫 Как связаться
+Пиши в Telegram: @NathalieNR
+Или напиши на почту: nrnatusia7@gmail.com
+
+
+
+---
+
+_Спасибо, что заглянули!_
