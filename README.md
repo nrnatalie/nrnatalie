@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Примеры работ
-- 🐧 [Проект Penguin](https://github.com/nrnatalie/Penguin)
+- - 🖥️ [Profile Card](https://nrnatalie.github.io/Profile-card/) — адаптивная карточка профиля, выполненная с помощью HTML и CSS
 
 ---
 
