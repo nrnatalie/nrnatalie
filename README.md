@@ -1,37 +1,29 @@
-# Привет! Я Наталья 👋
+Hi! I'm Nathalie 👋
+🎯 Junior Frontend Developer (HTML/CSS)
+💡 Learning HTML and CSS, creating simple websites
+🔍 Looking for an internship or first commercial project
 
-🎯 Junior верстальщик  
-💡 Изучаю HTML и CSS, создаю простые сайты  
-🔍 Ищу стажировку или первый коммерческий проект  
+💻 My Skills
+HTML5, CSS3
 
----
+Responsive design
 
-## 💻 Мои навыки
-- HTML5, CSS3
-- Адаптивная вёрстка
-- Git, GitHub
-- Работаю с VS Code
+Git, GitHub
 
----
+Comfortable with VS Code
 
-## 🌱 В процессе изучения
-- JavaScript (основы)
-- Figma для вёрстки по макетам
+🌱 Currently Learning
+JavaScript (basics)
 
----
+Figma for layout design
 
-## 📌 Примеры работ
-- - 🖥️ [Profile Card](https://nrnatalie.github.io/Profile-card/) — адаптивная карточка профиля, выполненная с помощью HTML и CSS
-- - 🌐 [Web Development Services](https://nrnatalie.github.io/Web-development-services/) — лендинг услуг веб-разработки с отзывчивой версткой
+📌 Projects
+🖥️ Profile Card — responsive profile card built with HTML and CSS
 
----
+🌐 Web Development Services — web development services landing page with responsive design
 
-## 📫 Как связаться
-Напиши в Telegram: @NathalieNR
-Или напиши на почту: nrnatusia7@gmail.com
+📫 How to Contact Me
+Message me on Telegram: @NathalieNR
+Or email me at: nrnatusia7@gmail.com
 
-
-
----
-
-_Спасибо, что заглянули!_
+Thanks for visiting!
