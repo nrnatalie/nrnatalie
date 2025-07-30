@@ -22,7 +22,7 @@ Figma for layout design
 - 🌐 [Web Development Services](https://nrnatalie.github.io/Web-development-services/) — web development services landing page with responsive design
 
 📫 How to Contact Me
-Message me on Telegram: @NathalieNR
+[Telegram: @NathalieNR](https://t.me/NathalieNR)
 Or email me at: nrnatusia7@gmail.com
 
 Thanks for visiting!
