@@ -1,12 +1,14 @@
 Hi! I'm Nathalie 👋  
-🎯 Junior Frontend Developer (HTML/CSS)  
+🎯 Junior Frontend Developer (HTML/CSS, React, Redux) 
 💡 Learning HTML and CSS, creating simple websites  
 🔍 Looking for an internship or first commercial project — **remote work only**, preferably with official employment
 
 ---
 
 💻 My Skills  
-- HTML5, CSS3  
+- HTML5, CSS3
+- React (components, useState, props)
+- Redux (state management)
 - Responsive design  
 - Git, GitHub  
 - Comfortable with VS Code
@@ -15,7 +17,7 @@ Hi! I'm Nathalie 👋
 
 🌱 Currently Learning  
 - JavaScript (basics)  
-- Figma for layout design
+- Figma-in progress
 
 ---
 
