@@ -22,6 +22,7 @@ Hi! I'm Nathalie 👋
 ## 📌 Projects  
 - 🖥️ [Profile Card](https://nrnatalie.github.io/Profile-card/) — responsive profile card built with HTML and CSS  
 - 🌐 [Web Development Services](https://nrnatalie.github.io/Web-development-services/) — web development services landing page with responsive design
+- [🖥️ View Project](https://my-todo-coral-nu.vercel.app/) 
 
 ---
 
