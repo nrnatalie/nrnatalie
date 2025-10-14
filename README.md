@@ -1,4 +1,4 @@
-Hi! I'm Nathalie 👋  
+Hi! I'm Nathalie   
 🎯 Junior Frontend Developer (HTML/CSS, React, Redux) 
 💡 Learning HTML and CSS, creating simple websites  
 🔍 Looking for an internship or first commercial project — **remote work only**, preferably with official employment
