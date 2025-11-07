@@ -6,6 +6,19 @@ Hi! I'm Nathalie
 ---
 
 💻 My Skills  
+🛠️ Технологии
+
+⚛️ React + Vite
+
+🧩 Redux Toolkit
+
+🧠 React Hook Form
+
+✅ Yup (валидация)
+
+📦 Axios (отправка данных на сервер)
+
+🎨 Tailwind CSS
 - HTML5, CSS3
 - React (components, useState, props)
 - Redux (state management)
