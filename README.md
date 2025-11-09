@@ -7,17 +7,11 @@ Hi! I'm Nathalie
 
 💻 My Skills  
 🛠️ Технологии
-
 ⚛️ React + Vite
-
 🧩 Redux Toolkit
-
 🧠 React Hook Form
-
 ✅ Yup (валидация)
-
 📦 Axios (отправка данных на сервер)
-
 🎨 Tailwind CSS
 - HTML5, CSS3
 - React (components, useState, props)
@@ -35,6 +29,7 @@ Hi! I'm Nathalie
 ---
 
 ## 📌 Projects
+  [Mini Dashboard (React + Redux Toolkit + Framer Motion)]Демо: https://app-mini-dashboard.vercel.app/
   [🖥️ Landing Page](https://my-landing-project-two.vercel.app/) — simple React Landing Page with **subscription form, responsive design, features & testimonials**, fully built with **React, Redux, TailwindCSS**.
 - 🌐 [Web Development Services](https://nrnatalie.github.io/Web-development-services/) — web development services landing page with responsive design
 - [🖥️ View Project](https://my-todo-coral-nu.vercel.app/)  — simple React Todo App with task management, add/delete/complete functionality
