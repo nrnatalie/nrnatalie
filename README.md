@@ -38,7 +38,7 @@ Hi! I'm Nathalie
 
 📫 How to Contact Me  
 [Telegram: @NathalieNR](https://t.me/NathalieNR)  
-Or email me at: nrnatusia7@gmail.com
+[Email:] nrnatusia7@gmail.com
 
 ---
 
