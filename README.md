@@ -29,10 +29,10 @@ Hi! I'm Nathalie
 ---
 
 ## 📌 Projects
-  [Mini Dashboard](🖥️ https://app-mini-dashboard.vercel.app/)-A simple dashboard for managing a user table with search, sorting, and pagination features.
-  [🖥️ Landing Page](https://my-landing-project-two.vercel.app/) — simple React Landing Page with **subscription form, responsive design, features & testimonials**, fully built with **React, Redux, TailwindCSS**.
-- 🌐 [Web Development Services](https://nrnatalie.github.io/Web-development-services/) — web development services landing page with responsive design
-- [🖥️ View Project](https://my-todo-coral-nu.vercel.app/)  — simple React Todo App with task management, add/delete/complete functionality
+-[🖥️ Mini Dashboard]( https://app-mini-dashboard.vercel.app/)- simple dashboard for managing a user table with search, sorting, and pagination features.
+-[🖥️ Landing Page](https://my-landing-project-two.vercel.app/) — simple React Landing Page with **subscription form, responsive design, features & testimonials**, fully built with **React, Redux, TailwindCSS**.
+-[🌐Web Development Services](https://nrnatalie.github.io/Web-development-services/) — web development services landing page with responsive design
+-[🖥️ View Project](https://my-todo-coral-nu.vercel.app/)  — simple React Todo App with task management, add/delete/complete functionality
 
 ---
 
