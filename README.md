@@ -6,12 +6,12 @@ Hi! I'm Nathalie
 ---
 
 💻 My Skills  
-🛠️ Технологии
+🛠️ Technologies
 ⚛️ React + Vite
 🧩 Redux Toolkit
 🧠 React Hook Form
-✅ Yup (валидация)
-📦 Axios (отправка данных на сервер)
+✅ Yup (validation)
+📦 Axios (sending data to the server)
 🎨 Tailwind CSS
 - HTML5, CSS3
 - React (components, useState, props)
